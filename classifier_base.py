@@ -1,6 +1,8 @@
 from oswegonlp.constants import OFFSET
 import numpy as np
 
+//Machine Learning is fun
+
 # hint! use this.
 def argmax(scores):
     items = list(scores.items())
